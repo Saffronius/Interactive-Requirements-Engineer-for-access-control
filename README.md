@@ -1,6 +1,6 @@
 # Policy Requirements Engineer
 
-A Python-based tool that converts natural language AWS IAM policy requirements into structured policy requirements checklists and SimplePolicyTalk (SPT) DSL policies using OpenAI's GPT-4.
+A Python-based tool that converts natural language AWS IAM policy requirements into structured policy requirements checklists and SimplePolicyTalk (SPT) DSL policies using a LLM.
 
 ## Overview
 
