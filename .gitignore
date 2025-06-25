@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test results
+policy_test_results.json
+
+# Environment
+.env
+
+# macOS
+.DS_Store 
